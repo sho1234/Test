@@ -1,0 +1,6 @@
+C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
