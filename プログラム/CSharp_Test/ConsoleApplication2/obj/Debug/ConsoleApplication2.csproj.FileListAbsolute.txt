@@ -1,6 +1,0 @@
-C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
-C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
-C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
-C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
-C:\Users\Mikawa\documents\visual studio 2015\Projects\CSharp_Test\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
