@@ -1,0 +1,12 @@
+afx マスク＆マークのメニュー
+"A All Mask" &MASK *.*
+"C Cursor *.*" &MASK *.$E
+". Mask *.*" &MASK $I"*.拡張子"
+"P .png .jpg .jpeg .bmp .gif" &MASK *.png *.jpg *.jpeg *.bmp *.gif
+"E .exe" &MASK *.exe
+"T .txt" &MASK *.txt
+". Mark *.*" &MARK $I"*.拡張子"
+"P .png .jpg .jpeg .bmp .gif" &MARK *.png *.jpg *.jpeg *.bmp *.gif
+"E .exe" &MARK *.exe
+"T .txt" &MARK *.txt
+"E Edit this" &EDIT $V"afx"\menu\Mask.txt

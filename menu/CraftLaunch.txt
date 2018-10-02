@@ -1,0 +1,13 @@
+afx Craftlaunchに引数を渡す
+"R カーソル位置のファイル登録"  C:\users\Mikawa\GoogleDrive\Application\clnch\clnch.exe /ex &SetCommand; "$P\$F"
+"F カレントフォルダを登録"  C:\users\Mikawa\GoogleDrive\Application\clnch\clnch.exe /ex &SetCommand;$P\
+"E コマンドを編集"  C:\users\Mikawa\GoogleDrive\Application\clnch\clnch.exe /ex &SetCommand;$I"コマンド名を入力"
+"---------------------"
+"C カレントフォルダからDOSプロンプト"  C:\users\Mikawa\GoogleDrive\Application\clnch\clnch.exe /ex &SubCommand;&CD;"$P",dosprompt
+"---------------------"
+"H 履歴を削除"  C:\users\Mikawa\GoogleDrive\Application\clnch\clnch.exe /ex &RemoveHistory;$I"削除したいコマンド名を入力"
+"D 履歴をすべて削除"  C:\users\Mikawa\GoogleDrive\Application\clnch\clnch.exe /ex &RemoveHistoryAll
+"---------------------"
+"S 複数コマンド連続実行"  C:\users\Mikawa\GoogleDrive\Application\clnch\clnch.exe /ex &SubCommand;$I"コマンド名を, で区切って入力"
+"---------------------"
+"= Edit this" &EDIT $V"afx"\menu\Craftlaunchmenu.txt
