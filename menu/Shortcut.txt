@@ -1,9 +1,0 @@
-afx ショートカットの作成
-"T ショートカットの作成"  $V"afx"\mkshc_at.exe -folder "$O" "$P\$F"
-"R 名称を変更して作成"  $V"afx"\mkshc_at.exe -folder "$O" -name $I"ショートカット名の変更" "$P\$F"
-"---------------------"
-"K デスクトップに作成"  $V"afx"\mkshc_at.exe -desktop "$p\$f"
-"U スタートアップに作成"  $V"afx"\mkshc_at.exe -startup "$p\$f"
-"S Sendtoに作成"  $V"afx"\mkshc_at.exe -sendto "$p\$f"
-"---------------------"
-"= Edit this" &EDIT $V"afx"\menu\Shortcut.txt

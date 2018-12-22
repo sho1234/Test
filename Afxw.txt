@@ -1,6 +1,0 @@
-ctrl+shift+space	&MARK $I2"拡張ファイル選択"
--					疑似ドロップ
-ctrl+space
-shift+space
-shift+Enter			&EXCD -O"$P\$F\"
-shift+L				フォルダ履歴を進む
